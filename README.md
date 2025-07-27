@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/OpenCV-4.5+-green?logo=opencv">
   <img src="https://img.shields.io/badge/MediaPipe-0.8-red?logo=mediapipe">
   <img src="https://img.shields.io/badge/Tkinter-GUI-orange?logo=tkinter">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
+
 </div>
 
 <br>
